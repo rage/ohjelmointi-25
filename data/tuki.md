@@ -9,8 +9,6 @@ information_page: true
 
 2024 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
 
-**HUOM!** Pajaohjaus keväälle alkaa keskiviikkona 17.01.2024.
-
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
 | 10-11 | - | Paja | - | - | - |
