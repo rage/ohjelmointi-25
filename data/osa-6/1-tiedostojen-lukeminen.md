@@ -516,7 +516,7 @@ Arto Vihavainen  2500 euroa
 
 </sample-output>
 
-Ohjelma käyttää aputietorakenteena kahta saankirjaa `nimet` ja `palkat`, joissa molemmissa avaimena toimii henkilötunnus:
+Ohjelma käyttää aputietorakenteena kahta sanakirjaa `nimet` ja `palkat`, joissa molemmissa avaimena toimii henkilötunnus:
 
 ```python
 nimet = {}
