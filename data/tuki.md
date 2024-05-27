@@ -22,6 +22,8 @@ information_page: true
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
+**Ohjaus on poikkeuksellisesti peruttu 4. ja 6. kesäkuuta. Korvaava ohjaus järjestetään Paja/Discord-ohjauksena perjantaina 7. kesäkuuta klo 14.00-16.00.**
+
 *Aikataulu voi muuttua kurssin edetessä.*
 
 #### Discord
