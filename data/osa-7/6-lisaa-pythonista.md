@@ -144,7 +144,7 @@ Ohjelma muodostuu riveistä, joista jokainen on yksi seuraavista:
 * `PRINT [arvo]`: tulostaa annetun arvon
 * `MOV [muuttuja] [arvo]`: asettaa muuttujaan annetun arvon
 * `ADD [muuttuja] [arvo]`: lisää muuttujaan annetun arvon
-* `SUB [muuttuja] [arvo}`: vähentää muuttujasta annetun arvon
+* `SUB [muuttuja] [arvo]`: vähentää muuttujasta annetun arvon
 * `MUL [muuttuja] [arvo]`: kertoo muuttujan annetulla arvolla
 * `[kohta]:`: määrittelee kohdan, johon voidaan hypätä muualta
 * `JUMP [kohta]`: hyppää annettuun kohtaan
