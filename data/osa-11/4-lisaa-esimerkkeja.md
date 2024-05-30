@@ -115,7 +115,7 @@ Muuttuja `summa` alustetaan nykyisen alkion arvolla. Tämän jälkeen siihen lis
 
 Kirjoita funktio `suurin_alkio(juuri: Alkio)`, joka saa parametrikseen binääripuun juurialkion.
 
-Funktion palauttaa puun suurimman alkion. Puun arvot tulee käydä läpi rekursiivisesti.
+Funktion tulee palauttaa puun suurimman alkion arvon. Puun arvot tulee käydä läpi rekursiivisesti.
 
 Vinkki: voit hyödyntää ratkaisussasi ylempänä esitettyä `alkoiden_summa` -funktiota.
 
