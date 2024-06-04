@@ -18,7 +18,6 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
 ### Ohjelmoinnin jatkokurssi koepäivät 2024
 
-* Lauantai 11.05.2024
 * Lauantai 15.06.2024
 * Lauantai 17.08.2024
 * Lauantai 26.10.2024
