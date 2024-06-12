@@ -5,7 +5,7 @@ hidden: false
 information_page: true
 ---
 
-### Kevään ohjausajat
+### Kesän ohjausajat
 
 2024 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
 
@@ -22,7 +22,7 @@ information_page: true
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
-**Ohjaus on poikkeuksellisesti peruttu 4. ja 6. kesäkuuta. Korvaava ohjaus järjestetään Paja/Discord-ohjauksena perjantaina 7. kesäkuuta klo 14.00-16.00.**
+**Paja ohjaus on tauolla 24.6. ja 31.7. välillä. Mikäli tarvitset lähitukea tällä välillä, ota yhteyttä kurssin sähköpostiin ohjelmoinnin-mooc@helsinki.fi.**
 
 *Aikataulu voi muuttua kurssin edetessä.*
 
