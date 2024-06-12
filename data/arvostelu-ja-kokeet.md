@@ -10,7 +10,6 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
 ### Ohjelmoinnin perusteet koepäivät 2024
 
-* Lauantai 08.06.2024
 * Lauantai 20.07.2024
 * Lauantai 07.09.2024
 * Lauantai 19.10.2024
