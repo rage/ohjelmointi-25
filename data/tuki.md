@@ -24,8 +24,6 @@ Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäo
 
 **Paja ohjaus on tauolla 24.6. ja 31.7. välillä. Mikäli tarvitset lähitukea tällä välillä, ota yhteyttä kurssin sähköpostiin ohjelmoinnin-mooc@helsinki.fi.**
 
-**Virallinen ohjaus on peruttu torstaina 4.7. Vertaistukea tarjolla normaalisti, eli kannattaa kysellä tästä huolimatta.**
-
 *Aikataulu voi muuttua kurssin edetessä.*
 
 #### Discord
