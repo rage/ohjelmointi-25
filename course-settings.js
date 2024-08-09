@@ -20,6 +20,30 @@ const courseSettings = {
       tmcOrganization: "hellu",
       tmcCourse: "HelluTTK01"
     },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-KYBER24AL"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-KYBER24B"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-PELI24AL"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-PELI24B"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-WEB24A"
+    },
+    {
+      tmcOrganization: "hbc",
+      tmcCourse: "hbc-python-WEB24B"
+    },
   ],
 }
 
