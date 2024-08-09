@@ -22,27 +22,27 @@ const courseSettings = {
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "hbc-python-KYBER24AL"
+      tmcCourse: "python-KYBER24AL"
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "hbc-python-KYBER24B"
+      tmcCourse: "python-KYBER24B"
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "hbc-python-PELI24AL"
+      tmcCourse: "python-PELI24AL"
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "hbc-python-PELI24B"
+      tmcCourse: "python-PELI24B"
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "hbc-python-WEB24A"
+      tmcCourse: "python-WEB24A"
     },
     {
       tmcOrganization: "hbc",
-      tmcCourse: "hbc-python-WEB24B"
+      tmcCourse: "python-WEB24B"
     },
   ],
 }
