@@ -7,6 +7,15 @@ banner: true
 sidebar_priority: 5000
 ---
 
+<notice>
+tmc.mooc.fi palvelussa on huoltokatko <b>tiistaina 20. elokuuta</b> alkaen <b>klo 14:00</b> noin kahden tunnin ajan. Tänä aikana et voi:
+<ul>
+    <li>Lähettää harjoitustehtävien vastauksia</li>
+    <li>Kirjautua sisään</li>
+    <li>Luoda tilejä</li>
+</ul>
+</notice>
+
 **Kurssi alkaa 15.1.2024**
 
 Nämä ovat Ohjelmoinnin perusteiden (TKT10002, 5 op) ja Ohjelmoinnin jatkokurssin (TKT10003, 5 op) kurssisivut.
