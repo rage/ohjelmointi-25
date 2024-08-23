@@ -38,7 +38,10 @@ Kurssi on auki vuoden 2024 loppuun asti. Tehtäviä voi tehdä omaan tahtiin sii
 
 ## Luennot
 
-Kurssilla järjestetään liveluennot syksyllä. Alta voit katsoa tallenteet syksyn 2023 luennoista.
+Kurssi luennoidaan syksyllä maanantaisin klo 14.15 2.9.2024 alkaen. Luentoja järjestetään yhteensä 7 + 7 kappaletta.
+Luentoja voi seurata [Zoomissa](https://helsinki.zoom.us/j/64014832372?pwd=3NacQkz9aHwEMitYfyV4HqIWoheppf.1)
+
+Luentotallenteiden linkki päivitetään aina luennon jälkeen. Siihen asti löydät taulukosta linkin viime vuoden vastaavan luennon tallenteeseen.
 
 ## Luentotallenteet
 
