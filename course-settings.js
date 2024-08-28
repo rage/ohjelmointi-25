@@ -44,6 +44,10 @@ const courseSettings = {
       tmcOrganization: "hbc",
       tmcCourse: "python-WEB24B"
     },
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "python_Grotenfelt_autumn_2024"
+    },
   ],
 }
 
