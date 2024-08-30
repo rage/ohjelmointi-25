@@ -4,6 +4,19 @@ title: "Laskentaa luvuilla"
 hidden: false
 ---
 
+
+## Tutkimus: Kysely minäpystyvyydestä
+
+Tällä [kyselyllä](https://redcap.helsinki.fi/redcap/surveys/?s=P4C384YLHDJJNCK8) tutkitaan ohjelmointia opiskelevien 
+minäpystyvyyttä. Kyselyn kuvaus ja tietosuojaseloste löytyvät [täältä](https://www.cs.helsinki.fi/u/ljleppan/ConfidenceGap-TSS.pdf).
+
+Kyselyyn vastaamisesta saat yhden bonuspisteen kurssin arviointiin. Anna siis kyselyyn
+vastatessa se sähköpostiosoite, jota käytät MOOCissa tunnuksena. Jos et halua lisäpistettä, 
+ei osoitetta ole pakko antaa.
+
+Jos et halua vastata kyselyyn, saat bonuspisteen antamalla kyselylomakkeelle tunnuksesi ja
+valitsemalla kohdasta 1 vastauksen "Ei". Jätä lomake tässä tapauksessa muuten tyhjäksi.
+
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
 Tämän osion jälkeen
