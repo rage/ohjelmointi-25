@@ -15,6 +15,7 @@ ei osoitetta ole pakko antaa.
 
 Jos et halua vastata kyselyyn, saat bonuspisteen antamalla kyselylomakkeelle tunnuksesi ja
 valitsemalla kohdasta 1 vastauksen "Ei". Jätä lomake tässä tapauksessa muuten tyhjäksi.
+
 </text-box>
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
