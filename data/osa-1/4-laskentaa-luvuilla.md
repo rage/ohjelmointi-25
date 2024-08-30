@@ -4,7 +4,7 @@ title: "Laskentaa luvuilla"
 hidden: false
 ---
 
-
+<text-box>
 ## Tutkimus: Kysely minäpystyvyydestä
 
 Tällä [kyselyllä](https://redcap.helsinki.fi/redcap/surveys/?s=P4C384YLHDJJNCK8) tutkitaan ohjelmointia opiskelevien 
@@ -16,6 +16,7 @@ ei osoitetta ole pakko antaa.
 
 Jos et halua vastata kyselyyn, saat bonuspisteen antamalla kyselylomakkeelle tunnuksesi ja
 valitsemalla kohdasta 1 vastauksen "Ei". Jätä lomake tässä tapauksessa muuten tyhjäksi.
+</text-box>
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
