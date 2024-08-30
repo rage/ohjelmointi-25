@@ -4,8 +4,7 @@ title: "Laskentaa luvuilla"
 hidden: false
 ---
 
-<text-box>
-## Tutkimus: Kysely minäpystyvyydestä
+<text-box variant='hint' name='Tutkimus: Kysely minäpystyvyydestä'>
 
 Tällä [kyselyllä](https://redcap.helsinki.fi/redcap/surveys/?s=P4C384YLHDJJNCK8) tutkitaan ohjelmointia opiskelevien 
 minäpystyvyyttä. Kyselyn kuvaus ja tietosuojaseloste löytyvät [täältä](https://www.cs.helsinki.fi/u/ljleppan/ConfidenceGap-TSS.pdf).
