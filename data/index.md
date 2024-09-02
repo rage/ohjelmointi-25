@@ -48,9 +48,9 @@ Luentotallenteiden linkki päivitetään aina luennon jälkeen. Siihen asti löy
 Vuoden 2023 tallenteiden asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
 Tallenteet päivitetään uusiin sitä mukaa, kun liveluentoja pidetään.
 
-Osa    | Luentotallenne
--------|---------------
-Osa 1  | [Luentotallenne, 04.09.2023](https://youtu.be/D747XGyM3Ys)
+Osa    | Luentotallenne | Kalvot
+-------|----------------|-------
+Osa 1  | [Luentotallenne, 02.09.2024](https://youtu.be/cmxG1fskOEg) | [Luentokalvot](https://docs.google.com/presentation/d/1b66YpK99-o3uJDZzwBxRgRIgeORQ0mwEoV0ziP48dd4/edit?usp=sharing), [Linkki-esittely](https://drive.google.com/file/d/1y2dIqVRO7Y4MaQA4d8sCdEQ1LwHPc9NQ/view?usp=sharing)
 Osa 2  | [Luentotallenne, 11.09.2023](https://youtu.be/CGBUjc_ZbfE)
 Osa 3  | [Luentotallenne, 18.09.2023](https://youtu.be/MXdj96x2sdo)
 Osa 4  | [Luentotallenne, 25.09.2023](https://youtu.be/W8D7xonW-Ss)
