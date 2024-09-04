@@ -13,8 +13,8 @@ information_page: true
 |-----|----|----|----|----|----|
 | 10-11 | - | Paja/Discord | - | - | - |
 | 11-12 | - | Paja/Discord | - | - | - |
-| 12-13 | - | - | - | Paja | - |
-| 13-14 | - | - | - | Paja | - |
+| 12-13 | - | - | - | Paja/Discord | - |
+| 13-14 | - | - | - | Paja/Discord | - |
 | 14-15 | - | Paja | - | Paja | Paja |
 | 15-16 | - | Paja | - | Paja | Paja |
 | 16-17 | - | Paja | - | Paja | Paja |
