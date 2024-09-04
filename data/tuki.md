@@ -13,12 +13,12 @@ information_page: true
 |-----|----|----|----|----|----|
 | 10-11 | - | Paja/Discord | - | - | - |
 | 11-12 | - | Paja/Discord | - | - | - |
-| 12-13 | - | - | - | - | - |
-| 13-14 | - | - | - | - | - |
-| 14-15 | - | - | - | Paja/Discord | - |
-| 15-16 | - | - | - | Paja/Discord | - |
-| 16-17 | - | - | - | - | - |
-| 17-18 | - | - | - | - | - |
+| 12-13 | - | - | - | Paja | - |
+| 13-14 | - | - | - | Paja | - |
+| 14-15 | - | Paja | - | Paja | Paja |
+| 15-16 | - | Paja | - | Paja | Paja |
+| 16-17 | - | Paja | - | Paja | Paja |
+| 17-18 | - | Paja | - | Paja | Paja |
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
