@@ -686,7 +686,7 @@ tuotteet = [("banaani", 5.95, 12), ("omena", 3.95, 3), ("appelsiini", 4.50, 2), 
 
 Jokaisessa tuplessa ensimmäinen alkio siis edustaa nimeä, seuraava hintaa ja kolmas määrää.
 
-Toteuta funktio `hae(tuotteet: list, kriteeri: callable)`, missä toisena parametrina on funktio, joka saa parametriksi yhden tuotetta edustavan tuplen ja palauttaa totuusarvon. Funktio palauttaa listassa parametrina annetuista tuotteista ne, jotka toteuttavat kriteerin.
+Toteuta funktio `hae(tuotteet: list, kriteeri: callable)`, missä toisena parametrina on `kiteeri` funktio, joka saa parametriksi yhden tuotetta edustavan tuplen ja palauttaa totuusarvon. Funktio `hae` palauttaa listassa parametrina annetuista tuotteista ne, jotka toteuttavat kriteerin.
 
 Sopiva kriteeri voisi olla esimerkiksi seuraavanlainen
 
