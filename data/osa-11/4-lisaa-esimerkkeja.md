@@ -151,7 +151,7 @@ Binääripuusta on erityisesti hyötyä silloin, kun alkiot on järjestetty tiet
 
 Tarkastellaan esimerkkinä puuta, jossa alkiot on järjestetty seuraavasti: jokaisen alkion vasen lapsi on pienempi kuin alkio itse, ja vastaavasti oikea alkio on suurempi kuin alkio itse.
 
-<img src="11_4_1.png">
+<img src="11_4_1_2.png">
 
 Nyt alkion etsimiseen voidaan kirjoittaa rekursiivinen algoritmi, joka toimii hyvin samankaltaisesti kuin aiemmin tarkastelemamme binäärihaku: jos juurialkio on tarkasteltava alkio, palautetaan arvo `True`. Muuten jatketaan rekursiivisesti hakua joko vasemmasta tai oikeasta alipuusta. Jos alkio on tyhjä, palautetaan `False`.
 
