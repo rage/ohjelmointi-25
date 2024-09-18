@@ -15,7 +15,7 @@ Tässä osiossa
 
 Rekursion todellinen hyöty tulee esiin tilanteissa, joissa iteratiivinen ratkaisu on hankala kirjoittaa. Tarkastellaan esimerkkinä _binääripuuta_. Binääripuulla tarkoitetaan puurakennetta, jossa jokaisella alkiolla on korkeintaan kaksi "lasta". Binääripuu voisi siis näyttää esim. tältä (huomaa, että vaikka tietojenkäsittelijöitä pidetään joissain yhteyksissä luonnontieteilijöinä, käsityksemme puiden kasvusuunnasta on nurinkurinen):
 
-<img src="11_4_1.png">
+<img src="11_4_1_2.png">
 
 Binääripuiden (ja puiden yleensäkin) käsittely rekursiivisesti on ainakin teoriassa helppoa: jos halutaan tehdä jokin operaatio binääripuun kaikille alkioille - esim. etsiä jokin tietty alkio puusta, voidaan kirjoittaa rekursiivinen algoritmi, joka
 
@@ -23,7 +23,7 @@ Binääripuiden (ja puiden yleensäkin) käsittely rekursiivisesti on ainakin te
 2. Kutsuu itseään vasemmasta lapsesta alkavalle "alipuulle"
 3. Kutsuu itseään oikeasta lapsesta alkavalle "alipuulle"
 
-<img src="11_4_2.png">
+<img src="11_4_2_2.png">
 
 Kun koko rekursiivinen algoritmi on käsitelty, on vierailtu kerran puun jokaisessa solussa. Iteratiivinen versio algoritmista on yleensä hankalampi kirjoittaa, koska kirjanpito vieralluista alkioista menee äkkiä monimutkaiseksi.
 
