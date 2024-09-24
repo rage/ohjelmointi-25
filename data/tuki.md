@@ -24,6 +24,8 @@ Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäo
 
 *Aikataulu voi muuttua kurssin edetessä.*
 
+**Ohjaus on peruttu torstaina 26.9. kello 12-14.**
+
 #### Discord
 
 Discord on viestintäsovellus, josta saat lisätietoa [täältä](https://discord.com/).
