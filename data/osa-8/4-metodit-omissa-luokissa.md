@@ -4,6 +4,22 @@ title: 'Metodit omissa luokissa'
 hidden: false
 ---
 
+<text-box variant='hint' name='Tutkimus: Kysely minäpystyvyydestä'>
+
+Tällä [kyselyllä](https://redcap.helsinki.fi/redcap/surveys/?s=TRKACPF33C4JFRHY) tutkitaan ohjelmointia opiskelevien 
+minäpystyvyyttä. Kyselyn kuvaus ja tietosuojaseloste löytyvät [täältä](https://www.cs.helsinki.fi/u/ljleppan/ConfidenceGap-TSS.pdf).
+
+Toivomme, että vastaat kyselyyn, vaikka olisit jo vastannut vastaavaan kyselyyn osassa 1.
+
+Kyselyyn vastaamisesta saat yhden bonuspisteen kurssin arviointiin. Anna siis kyselyyn
+vastatessa se sähköpostiosoite, jota käytät MOOCissa tunnuksena. Jos et halua lisäpistettä, 
+ei osoitetta ole pakko antaa.
+
+Jos et halua vastata kyselyyn, saat bonuspisteen antamalla kyselylomakkeelle tunnuksesi ja
+valitsemalla kohdasta 1 vastauksen "Ei". Jätä lomake tässä tapauksessa muuten tyhjäksi.
+
+</text-box>
+
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
 Tämän osion jälkeen:
