@@ -8,6 +8,11 @@ sidebar_priority: 4000
 
 Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
+### Arviointiasteikko muuttuu vuonna 2025
+
+Ohjelmoinnin perusteiden arviointiasteikko muuttuu vuoden 2025 MOOCissa. Numeerisen arvosanan sijasta kurssi arvioidaan asteikolla Hyväksytty / Hylätty. Muutos ei koske Ohjelmoinnin jatkokurssia (eli osia 8 - 14).
+Jos siis haluat suorittaa peruskurssin asteikolla 0-5, viimeinen mahdollisuus suorittaa kurssin tentti on 11.01.2025.
+
 ### Ohjelmoinnin perusteet koepäivät 2024
 
 * Lauantai 07.09.2024
