@@ -23,6 +23,12 @@ hide_in_sidebar: false
 * Tentti päättyy viimeistään klo 22:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 18:00**.
 * Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia.
 
+#### Vaihtoehtoinen päivä tentin suorittamiselle
+
+* Vaihtoehtoinen aika tämän tentin suorittamiselle on 24.10.2024 **klo 10:00-16:00**
+* Vaihtoehtoisessa tentissä on sama määrä tehtäviä ja sama määrä aikaa niiden tekemiseen, mutta aika ikkuna, jolloin sen voit tehdä on pienempi
+* **Älä tee molempia tenttejä.** Mikäli osallistut sekä 19.10.2024 että 24.10.2024 tenttiin, huonompi suoritus jää voimaan.
+
 #### Ennen tenttipäivää
 
 * Lue nämä ohjeet huolellisesti
