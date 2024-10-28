@@ -11,14 +11,14 @@ information_page: true
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
-| 10-11 | - | Paja/Discord | - | - | - |
-| 11-12 | - | Paja/Discord | - | - | - |
-| 12-13 | - | - | - | Paja/Discord | - |
-| 13-14 | - | - | - | Paja/Discord | - |
-| 14-15 | - | Paja | - | Paja | Paja |
-| 15-16 | - | Paja | - | Paja | Paja |
-| 16-17 | - | Paja | - | Paja | Paja |
-| 17-18 | - | Paja | - | Paja | Paja |
+| 10-11 | - | - | - | - | - |
+| 11-12 | - | - | - | - | - |
+| 12-13 | - | - | Paja/Discord | - | - |
+| 13-14 | - | - | Paja/Discord | - | - |
+| 14-15 | - | Paja | - | Paja | - |
+| 15-16 | - | Paja | - | Paja | - |
+| 16-17 | - | Paja | - | Paja | - |
+| 17-18 | - | Paja | - | Paja | - |
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
