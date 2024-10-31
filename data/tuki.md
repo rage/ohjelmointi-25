@@ -11,8 +11,8 @@ information_page: true
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
-| 10-11 | - | - | - | - | - |
-| 11-12 | - | - | - | - | - |
+| 10-11 | - | Paja/Discord | - | - | - |
+| 11-12 | - | Paja/Discord | - | - | - |
 | 12-13 | - | - | Paja/Discord | - | - |
 | 13-14 | - | - | Paja/Discord | - | - |
 | 14-15 | - | Paja | - | Paja | - |
