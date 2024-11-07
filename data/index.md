@@ -7,8 +7,6 @@ banner: true
 sidebar_priority: 5000
 ---
 
-**Kurssi alkaa 15.1.2024**
-
 Nämä ovat Ohjelmoinnin perusteiden (TKT10002, 5 op) ja Ohjelmoinnin jatkokurssin (TKT10003, 5 op) kurssisivut.
 
 Kurssit suoritetaan tekemällä tehtäviä ja molempien kurssien päätteeksi on pakollinen tentti.
@@ -17,6 +15,12 @@ Tarkemmat arvosteluperusteet löytyvät [täältä](/arvostelu-ja-kokeet)
 Osat 1-7 muodostavat Ohjelmoinnin perusteet ja osat 8-14 muodostavan Ohjelmoinnin jatkokurssin.
 
 **Huom!** Kurssin suorittamalla **ei** voi enää hakea suoraan sisäänpääsyä laitokselle (ns. MOOC-väylä) niin kuin aikaisempina vuosina. Lisätietoa laitoksen hakuväylistä löydät [opintopolku.fi-sivustolta](https://opintopolku.fi/app/#!/haku/tietojenk%C3%A4sittelytiede?page=1&facetFilters=teachingLangCode_ffm:FI&tab=los).
+
+
+## Arviointiasteikko muuttuu vuonna 2025
+
+Ohjelmoinnin perusteiden arviointiasteikko muuttuu vuoden 2025 MOOCissa. Numeerisen arvosanan sijasta kurssi arvioidaan asteikolla Hyväksytty / Hylätty. Muutos ei koske Ohjelmoinnin jatkokurssia (eli osia 8 - 14).
+Jos siis haluat suorittaa peruskurssin asteikolla 0-5, viimeinen mahdollisuus suorittaa kurssin tentti on 11.01.2025.
 
 ## 1 + 1 pisteen lisäsuoritukset
 
