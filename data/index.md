@@ -63,7 +63,7 @@ Osa 6  | [Luentotallenne, 07.10.2024](https://youtu.be/Hx6ScppSUKc) | [Luentokal
 Osa 7  | [Luentotallenne, 14.10.2024](https://youtu.be/AL3YhX148Dc) | [Luentokalvot](https://docs.google.com/presentation/d/1seHBXgqyh4cCnf0VL2BacLZwiuMI5v9E6N6xUtbboU8/edit?usp=sharing)
 Osa 8  | [Luentotallenne, 28.10.2024](https://youtu.be/ecsTwMvBjic) | [Luentokalvot](https://docs.google.com/presentation/d/12EsFxA2CCWCLIKdp8q6gAgAnK2-EFFrZhXgmgJeEGy8/edit?usp=sharing)
 Osa 9  | [Luentotallenne, 04.11.2024](https://youtu.be/YZJhoICsT54) | [Luentokalvot](https://docs.google.com/presentation/d/1jMFlhqZcu1teq_QfplofZL2VggJKWH9jNpx9FOdnbqw/edit?usp=sharing)
-Osa 10 | [Luentotallenne, 13.11.2023](https://youtu.be/5AdWw8qD4ns)
+Osa 10 | [Luentotallenne, 11.11.2024](https://youtu.be/qLyKEl5EQ6A) | [Luentokalvot](https://docs.google.com/presentation/d/16cFdoP81vMK8rUDqVRYJay5sLYdu2IkbYxJxWLhKcMQ/edit?usp=sharing)
 Osa 11 | [Luentotallenne, 20.11.2023](https://youtu.be/pupTIw6ZZ4o)
 Osa 12 | [Luentotallenne, 27.11.2023](https://youtu.be/Eti9wBaLIws)
 Osa 13 | [Luentotallenne, 05.12.2023](https://youtu.be/BIkhyeiLEYg)
