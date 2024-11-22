@@ -1,9 +1,9 @@
 ---
 path: "/verkkotentti-ohpe"
-title: "Ohjelmoinnin perusteiden verkkotentti 24.10."
+title: "Ohjelmoinnin perusteiden verkkotentti 23.11."
 information_page: true
 sidebar_priority: 2900
-hide_in_sidebar: true
+hide_in_sidebar: false
 ---
 
 <!--# Ohjelmoinnin perusteet-->
@@ -19,14 +19,9 @@ hide_in_sidebar: true
 #### Tentin toteutus
 
 * Tentti suoritetaan kurssitehtävien tapaan vscode-ympäristössä.
-* Kurssin tentin voi suorittaa 24.10.2024 **klo 10:00-16:00** välisenä aikana.
-* Tentti päättyy viimeistään klo 16:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 12:00**.
+* Kurssin tentin voi suorittaa 23.11.2024 **klo 10:00-22:00** välisenä aikana.
+* Tentti päättyy viimeistään klo 22:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 18:00**.
 * Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia.
-
-#### Vaihtoehtoinen päivä tentin suorittamiselle
-
-* Vaihtoehtoinen aika tämän tentin suorittamiselle oli 24.10.2024
-* **Älä tee molempia tenttejä.** Mikäli osallistut sekä 19.10.2024 että 24.10.2024 tenttiin, **huonompi suoritus jää voimaan**.
 
 #### Ennen tenttipäivää
 
@@ -36,8 +31,8 @@ hide_in_sidebar: true
 
 #### Tenttipäivänä
 
-* Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 10:00-12:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) `ohjelmoinnin_mooc_general` kanavalla.
-* Tenttipäivänä **klo 12:00-16:00** keskustelu kurssin kanavilla on kielletty. Kurssin Discord on lukittu ja kanaville ei voi lähettää viestejä.
+* Teknisten ongelmien varalta ohjaaja päivystää tenttipäivänä **klo 10:00-14:00** [Discordissa](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc) `ohjelmoinnin_mooc_general` kanavalla.
+* Tenttipäivänä **klo 14:00-22:00** keskustelu kurssin kanavilla on kielletty. Kurssin Discord on lukittu ja kanaville ei voi lähettää viestejä.
 
 #### Tehtäväpohjien hakeminen
 
@@ -47,7 +42,7 @@ hide_in_sidebar: true
 2. Valitse TMC-valikosta `My courses`-näkymä.
 3. Paina `Add new course`-nappulaa.
 4. Valitse organisaatioksi `Helsingin yliopisto`.
-5. Valitse kurssiksi `OHPE Python, syksy 2024, Verkkotentti 3`.
+5. Valitse kurssiksi `OHPE Python, syksy 2024, Verkkotentti 4`.
 6. Lataa tehtäväpohjat.
 7. Testaa tehtävien lähettämistä.
 8. Jos saat lähetettyä tehtävät palvelimelle niin olet valmis tekemään tentin, muutoin ole yhteydessä ohjaajaan.
@@ -60,8 +55,8 @@ hide_in_sidebar: true
 
 * Tenttikysymykset ilmestyvät courses.mooc.fi sivulle tenttipäivänä klo 10:00.
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
-* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/5ca7f6b6-9a67-4f52-aef9-82cd0249ef46">https://courses.mooc.fi/org/uh-cs/exams/5ca7f6b6-9a67-4f52-aef9-82cd0249ef46</a>
-* Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/f5cab2a8-e88d-484c-876b-03d2d71d01dd">https://courses.mooc.fi/org/uh-cs/exams/f5cab2a8-e88d-484c-876b-03d2d71d01dd</a>
+* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/f7d1b56a-18bd-47d3-9257-abc3c9583573">https://courses.mooc.fi/org/uh-cs/exams/f7d1b56a-18bd-47d3-9257-abc3c9583573</a>
+* Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/e13844f4-3cce-44c8-b87c-76fd918356cf">https://courses.mooc.fi/org/uh-cs/exams/e13844f4-3cce-44c8-b87c-76fd918356cf</a>
 * Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti!` -painiketta.
 
 #### Tehtävien palauttaminen
@@ -73,7 +68,7 @@ hide_in_sidebar: true
 #### Tentin lopetus
 
 * Ennen lopettamista varmista vielä, että olet muistanut palauttaa tehtävät serverille.
-* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/1462](https://tmc.mooc.fi/org/hy/courses/1462). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
+* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/1473](https://tmc.mooc.fi/org/hy/courses/1473). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
 #### Tentin tulokset
