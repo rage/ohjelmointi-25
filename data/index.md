@@ -65,6 +65,6 @@ Osa 8  | [Luentotallenne, 28.10.2024](https://youtu.be/ecsTwMvBjic) | [Luentokal
 Osa 9  | [Luentotallenne, 04.11.2024](https://youtu.be/YZJhoICsT54) | [Luentokalvot](https://docs.google.com/presentation/d/1jMFlhqZcu1teq_QfplofZL2VggJKWH9jNpx9FOdnbqw/edit?usp=sharing)
 Osa 10 | [Luentotallenne, 11.11.2024](https://youtu.be/qLyKEl5EQ6A) | [Luentokalvot](https://docs.google.com/presentation/d/16cFdoP81vMK8rUDqVRYJay5sLYdu2IkbYxJxWLhKcMQ/edit?usp=sharing)
 Osa 11 | [Luentotallenne, 18.11.2024](https://youtu.be/MuDsx8j60ds) | [Luentokalvot](https://docs.google.com/presentation/d/1JegqXQcFB7PmzBekGz4DB7Fbpp4iGpL5DGLRwfQk-6k/edit?usp=sharing)
-Osa 12 | [Luentotallenne, 27.11.2023](https://youtu.be/Eti9wBaLIws)
+Osa 12 | [Luentotallenne, 25.11.2024](https://youtu.be/cXzihKbfTV0) | [Luentokalvot](https://docs.google.com/presentation/d/1_tBLuXbc9QMVYnO6i4ZAYA3rVWNWKCcMJPqj8RXGdDs/edit?usp=sharing)
 Osa 13 | [Luentotallenne, 05.12.2023](https://youtu.be/BIkhyeiLEYg)
 Osa 14 | Ei luentoa, projektityö
