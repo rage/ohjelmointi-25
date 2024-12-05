@@ -35,22 +35,16 @@ Tarkan ohjausaikataulun löydät [täältä](/tuki).
 
 Käytä ensisijaisesti viestintävälineenä Discordia. Kurssin opettajiin voit olla suoraan yhteydessä sähköpostitse osoitteella ohjelmoinnin-mooc@helsinki.fi.
 
-
 ## Aikataulu
 
-Kurssi on auki vuoden 2024 loppuun asti. Tehtäviä voi tehdä omaan tahtiin siihen asti.
+Kurssi on auki vuoden 2024 loppuun asti. Tehtäviä voi tehdä omaan tahtiin siihen asti. Jos osallistut kurssin viimeisiin tentteihin, jotka järjestetään vuoden 2025 tammi- tai helmikuussa, voit tehdä tehtäviä tenttipäivän aamuun klo 08:00 asti.
 
 ## Luennot
 
-Kurssi luennoidaan syksyllä maanantaisin klo 14.15 2.9.2024 alkaen. Luentoja järjestetään yhteensä 7 + 7 kappaletta.
-Luentoja voi seurata [Zoomissa](https://helsinki.zoom.us/j/64014832372?pwd=3NacQkz9aHwEMitYfyV4HqIWoheppf.1)
-
-Luentotallenteiden linkki päivitetään aina luennon jälkeen. Siihen asti löydät taulukosta linkin viime vuoden vastaavan luennon tallenteeseen.
+Kurssilla ei järjestetä enää liveluentoja. Luentotallenteet löytyvät alla olevasta taulukosta.
 
 ## Luentotallenteet
 
-Vuoden 2023 tallenteiden asiasisältö on tätä kurssia vastaava, mutta tallenteilta mahdollisesti löytyvät huomautukset esimerkiksi tenttipäivämääriin tms. liittyen _eivät välttämättä pidä paikkaansa_!
-Tallenteet päivitetään uusiin sitä mukaa, kun liveluentoja pidetään.
 
 Osa    | Luentotallenne | Kalvot
 -------|----------------|-------
