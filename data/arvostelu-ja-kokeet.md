@@ -15,14 +15,19 @@ Jos siis haluat suorittaa peruskurssin asteikolla 0-5, viimeinen mahdollisuus su
 
 ### Ohjelmoinnin perusteet koepäivät 2024
 
-* Lauantai 23.11.2024
 * Lauantai 11.01.2025
 
 ### Ohjelmoinnin jatkokurssi koepäivät 2024
 
 * Lauantai 14.12.2024
+* Tiistai &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.12.2024 **(Ylimääräinen koe)**
 * Lauantai 18.01.2025
 * Lauantai 15.02.2025
+
+**HUOM! 17.12.2024 järjestetään ylimääräinen koe ohjelmoinnin perusteet kurssille. Mikäli haluat osallistua tähän kokeeseen, älä tee 14.12.2024 koetta. Mikäli teet molemmat kokeet, huonompi suoritus jää voimaan**
+
+*17.12.2024 kokeen suoritusaika on poikkeuksellisesti klo 10-16 ja tekninentuki on tarjolla klo 10-12. Suosittelemme aloittamaan kokeen tällä aikavälillä.*
+
 
 ## Tenttiin osallistuminen
 
