@@ -104,6 +104,6 @@ Tehtäväpohjassa on asteroidia varten kuvatiedosto `kivi.png`.
 
 Vastaa lopuksi osion loppukyselyyn:
 
-<quiz id="d16c5c09-a375-57da-a51b-22470587f95d"></quiz>
+<quiz id="e2923cf8-fcb4-5cf4-82d7-e26ad03722e2"></quiz>
 
 

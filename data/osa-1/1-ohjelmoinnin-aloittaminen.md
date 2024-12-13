@@ -220,4 +220,4 @@ print("Moi kaikki!")
 
 Kertauskysely tämän osan asioihin liittyen:
 
-<quiz id="90b76562-cc2b-5dd4-996b-895d7b5bc69e"></quiz>
+<quiz id="94c515df-aad3-582c-b886-547e9eb8b7a7"></quiz>

@@ -485,6 +485,6 @@ komento: **0**
 
 Vastaa lopuksi osion loppukyselyyn:
 
-<quiz id="2249a8d3-9455-5228-bd15-d5328d147b19"></quiz>
+<quiz id="9ea08484-18a5-54da-bbe6-b01ab85a3dbb"></quiz>
 
 
