@@ -8,30 +8,19 @@ sidebar_priority: 4000
 
 Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
-### Arviointiasteikko muuttuu vuonna 2025
+### Ohjelmoinnin perusteiden koepäivät 2025
 
-Ohjelmoinnin perusteiden arviointiasteikko muuttuu vuoden 2025 MOOCissa. Numeerisen arvosanan sijasta kurssi arvioidaan asteikolla Hyväksytty / Hylätty. Muutos ei koske Ohjelmoinnin jatkokurssia (eli osia 8 - 14).
-Jos siis haluat suorittaa peruskurssin asteikolla 0-5, viimeinen mahdollisuus suorittaa kurssin tentti on 11.01.2025.
+* Tulossa
 
-### Ohjelmoinnin perusteet koepäivät 2024
+### Ohjelmoinnin jatkokurssin koepäivät 2025
 
-* Lauantai 11.01.2025
+* Tulossa
 
-### Ohjelmoinnin jatkokurssi koepäivät 2024
-
-* Lauantai 14.12.2024
-* Tiistai &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17.12.2024 **(Ylimääräinen koe)**
-* Lauantai 18.01.2025
-* Lauantai 15.02.2025
-
-**HUOM! 17.12.2024 järjestetään ylimääräinen koe ohjelmoinnin jatkokurssille. Mikäli haluat osallistua tähän kokeeseen, älä tee 14.12.2024 koetta. Mikäli teet molemmat kokeet, huonompi suoritus jää voimaan**
-
-*17.12.2024 kokeen suoritusaika on poikkeuksellisesti klo 10-16 ja tekninentuki on tarjolla klo 10-12. Suosittelemme aloittamaan kokeen tällä aikavälillä.*
 
 
 ## Tenttiin osallistuminen
 
-Voit osallistua mihin tahansa kokeeseen, kun olet saanut minimimäärän ohjelmointitehtäviä tehtyä. Käytännössä tämä tarkoittaa, että sinulla tulee olla 25 % kaikista kokeeseen kuuluvien yksittäisten tehtäväkierrosten ohjelmointitehtävien pisteistä valmiina koepäivän aamuna klo 08.00. Jos teet jatkokurssin tenttiä, osa 14 pitää olla kokonaan suoritettuna. Jos pisteitä puuttuu, tenttisuoritustasi ei arvioida. **Huom!** Jos teet jatkokurssin tentin 14.12., takaraja peliprojektin palautukselle (eli osan 14 suoritukselle) on vasta 1.1.2025. 
+Voit osallistua mihin tahansa kokeeseen, kun olet saanut minimimäärän ohjelmointitehtäviä tehtyä. Käytännössä tämä tarkoittaa, että sinulla tulee olla 25 % kaikista kokeeseen kuuluvien yksittäisten tehtäväkierrosten ohjelmointitehtävien pisteistä valmiina koepäivän aamuna klo 08.00. Jos teet jatkokurssin tenttiä, osa 14 pitää olla kokonaan suoritettuna. Jos pisteitä puuttuu, tenttisuoritustasi ei arvioida. 
 
 Pisteitä tarkastellaan erikseen peruskurssin (osat 1-7) ja jatkokurssin (osat 8-14) osalta.
 
@@ -59,7 +48,9 @@ Jokaisen osan kaikista tehtävistä saa tehtäväpisteitä. Löydät osan kaikki
 
 ### Arvosteluasteikko
 
-Kurssi arvostellaan seuraavalla asteikolla:
+*Peruskurssista* saa hyväksytyn arvosanan tekemällä vähintään 50 % kaikista MOOC-tehtävistä ja suorittamalla tentin hyväksytysti. Lisäksi jokaisesta yksittäisestä tehtäväkierroksesta 1 - 7 pitää saada vähintään 25 % pisteistä. Tentin läpipääsyyn vaaditaan vähintään puolet tenttipisteistä.
+
+*Jatkokurssi* arvostellaan seuraavalla asteikolla:
 
 <table>
     <thead>
