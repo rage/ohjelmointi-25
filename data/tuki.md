@@ -9,7 +9,7 @@ information_page: true
 
 2025 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
 
-**Ohjausajat päivitetään tammikuun alkupuolella**
+**Ohjausaikataulu päivitetään tammikuussa ennen kurssin alkamista**
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
