@@ -10,17 +10,30 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 
 ### Ohjelmoinnin perusteiden koepäivät 2025
 
-* Tulossa
+* Lauantai 08.03.2025
+* Lauantai 03.05.2025
+* Lauantai 07.06.2025
+* Lauantai 19.07.2025
+* Lauantai 06.09.2025
+* Tiistai 22.10.2025
+* Lauantai 22.11.2025
+* Lauantai 19.01.2026
 
 ### Ohjelmoinnin jatkokurssin koepäivät 2025
 
-* Tulossa
-
+* Lauantai 15.03.2025
+* Lauantai 10.05.2025
+* Lauantai 14.06.2025
+* Lauantai 16.08.2025
+* Tiistai 22.10.2025
+* Tiistai 16.12.2025
+* Lauantai 26.01.2026
+* Lauanatai 28.02.2026
 
 
 ## Tenttiin osallistuminen
 
-Voit osallistua mihin tahansa kokeeseen, kun olet saanut minimimäärän ohjelmointitehtäviä tehtyä. Käytännössä tämä tarkoittaa, että sinulla tulee olla 25 % kaikista kokeeseen kuuluvien yksittäisten tehtäväkierrosten ohjelmointitehtävien pisteistä valmiina koepäivän aamuna klo 08.00. Jos teet jatkokurssin tenttiä, osa 14 pitää olla kokonaan suoritettuna. Jos pisteitä puuttuu, tenttisuoritustasi ei arvioida. 
+Voit osallistua mihin tahansa kokeeseen, kun olet saanut minimimäärän ohjelmointitehtäviä tehtyä. Käytännössä tämä tarkoittaa, että sinulla tulee olla 25 % kaikista kokeeseen kuuluvien yksittäisten tehtäväkierrosten ohjelmointitehtävien pisteistä valmiina koepäivän aamuna klo 08.00. Jos teet jatkokurssin tenttiä, osa 14 pitää olla kokonaan suoritettuna. Jos pisteitä puuttuu, tenttisuoritustasi ei arvioida.
 
 Pisteitä tarkastellaan erikseen peruskurssin (osat 1-7) ja jatkokurssin (osat 8-14) osalta.
 
