@@ -3,7 +3,18 @@ path: '/osa-2/2-else-elif'
 title: 'Lisää ehtolauseita'
 hidden: false
 ---
+<text-box variant='hint' name='Tutkimus: Kysely kurssina arvionnista'>
 
+Tällä [kyselyllä](https://link.webropolsurveys.com/S/25E39084DA40A47D) tutkitaan kurssin arvioinnin merkitystä kurssin tuloksiin. Kyselyn kuvaus ja tietosuojaseloste löytyvät [täältä](https://helsinkifi-my.sharepoint.com/:w:/g/personal/myyry_ad_helsinki_fi/EdTXbrE5PklKuGeijTozWgkBg-5TtnfvuGitSJ9WJLvNoQ?rtime=aTcXVEkx3Ug).
+
+Kyselyyn vastaamisesta saat yhden bonuspisteen kurssin arviointiin. Anna siis kyselyyn
+vastatessa se sähköpostiosoite, jota käytät MOOCissa tunnuksena. Jos et halua lisäpistettä, 
+ei osoitetta ole pakko antaa.
+
+Jos et halua vastata kyselyyn, saat bonuspisteen antamalla kyselylomakkeelle tunnuksesi ja
+jättämällä lomakkeen muuten tyhjäksi.
+
+</text-box>
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
