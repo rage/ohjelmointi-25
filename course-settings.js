@@ -16,6 +16,10 @@ const courseSettings = {
       tmcOrganization: "centria",
       tmcCourse: "centria-python-2025"
     },
+    {
+      tmcOrganization: "kinnulanlukio",
+      tmcCourse: "kinnulanlukio-python-ohjelmointi-2025"
+    },
     // {
     //   tmcOrganization: "laurea",
     //   tmcCourse: "python-2024-stenberg"
