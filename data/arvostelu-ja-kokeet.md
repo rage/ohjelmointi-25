@@ -15,9 +15,9 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 * Lauantai 07.06.2025
 * Lauantai 19.07.2025
 * Lauantai 06.09.2025
-* Tiistai 22.10.2025
+* Tiistai 21.10.2025
 * Lauantai 22.11.2025
-* Lauantai 19.01.2026
+* Lauantai 17.01.2026
 
 ### Ohjelmoinnin jatkokurssin koepäivät 2025
 
@@ -25,9 +25,9 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 * Lauantai 10.05.2025
 * Lauantai 14.06.2025
 * Lauantai 16.08.2025
-* Tiistai 22.10.2025
+* Tiistai 21.10.2025
 * Tiistai 16.12.2025
-* Lauantai 26.01.2026
+* Lauantai 24.01.2026
 * Lauanatai 28.02.2026
 
 
