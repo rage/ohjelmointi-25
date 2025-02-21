@@ -306,7 +306,7 @@ Emilia;040-324344
 Tiedoston käsittely on selkeästi oma vastuualueensa, eli toteutetaan sitä varten oma luokka:
 
 ```python
-class Tiedostonkasittelija():
+class Tiedostonkasittelija:
     def __init__(self, tiedosto):
         self.__tiedosto = tiedosto
 
