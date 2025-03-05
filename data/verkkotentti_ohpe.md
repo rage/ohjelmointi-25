@@ -84,6 +84,7 @@ hide_in_sidebar: false
 #### Muuta
 
 * Tentissä **ei** saa tehdä yhteistyötä eikä kopioida valmiita vastauksia. **Normaaleja tiedonhakukeinoja (esim. Google ja kurssimateriaali) saa käyttää.**
+* Tentissä **ei** saa käyttää apuna laajoja kielimalleja, kuten ChatGPT tai vastaavia.
 * Tenttivastaukset tarkistetaan plagoinnintunnistusohjelmalla. Huijaus johtaa aina vähintään tenttisuorituksen hylkäämiseen, mahdollisesti myös kurssilta poistamiseen.
 * Tenttikysymykset muistuttavat kurssimateriaalin tehtäviä - tenttiin valmistautumiseksi kannattaa siis kertailla materiaalia.
 * Kurssin tulokset tulevat kokeen jälkeen sähköpostitse opintopisteohjeiden kera.
