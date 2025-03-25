@@ -28,6 +28,10 @@ const courseSettings = {
       tmcOrganization: "laurea",
       tmcCourse: "python-2025-laurea-stenberg"
     },
+    {
+      tmcOrganization: "nissniku",
+      tmcCourse: "python-2025"
+    },
     // {
     //   tmcOrganization: "laurea",
     //   tmcCourse: "python-2024-stenberg"
