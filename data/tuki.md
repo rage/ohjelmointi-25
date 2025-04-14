@@ -26,6 +26,10 @@ Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäo
 
 *Aikataulu voi muuttua kurssin edetessä.*
 
+**HUOM!** Ohjausta ei järjestetä pääsiäisen johdosta 17.4.2025-23.4.2025.
+
+**HUOM!** Ohjausta ei järjestetä vappuna 1.5.2025.
+
 #### Discord
 
 Discord on viestintäsovellus, josta saat lisätietoa [täältä](https://discord.com/).
