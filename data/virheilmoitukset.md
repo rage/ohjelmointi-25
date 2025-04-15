@@ -70,6 +70,6 @@ Katso ylempi kohta.
 
 ### Pylance is crashing
 
-Tämä virhe aiheutuu useimmiten liian useista avoimista tehtävistä TMC -moduulissa.
+Tämä virhe aiheutuu useimmiten liian useista avoimista tehtävistä TMC -pluginissa.
 Voit yrittää korjata virheen avaamalla VS coden sivupalkista TMC -valikon, klikkaamalla kurssia jonka parissaa olet työskennellyt, ja painamalla "close all" näppäintä niiden tehtäväosioiden kohdalla, joiden parissa et enää työskentele.
 Voit aina avata tehtäväosiot uudestaan, jos päätät palata niiden pariin.
