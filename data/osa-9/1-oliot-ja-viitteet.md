@@ -851,14 +851,14 @@ pascal = Henkilo("Blaise Pascal", 1623)
 grace = Henkilo("Grace Hopper", 1906)
 
 if vanhempi_kuin(muhammad, pascal):
-    print(f"{muhammad} on vanhempi kuin {pascal}")
+    print(f"{muhammad.nimi} on vanhempi kuin {pascal.nimi}")
 else:
-    print(f"{muhammad} ei ole vanhempi kuin {pascal}")
+    print(f"{muhammad.nimi} ei ole vanhempi kuin {pascal.nimi}")
 
 if vanhempi_kuin(grace, pascal):
-    print(f"{grace} on vanhempi kuin {pascal}")
+    print(f"{grace.nimi} on vanhempi kuin {pascal.nimi}")
 else:
-    print(f"{grace} ei ole vanhempi kuin {pascal}")
+    print(f"{grace.nimi} ei ole vanhempi kuin {pascal.nimi}")
 ```
 
 <sample-output>
