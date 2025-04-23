@@ -23,7 +23,7 @@ class LuokanNimi:
     # Luokan toteutus
 ```
 
-Luokat nimetään yleensä _camel case_ -käytännöllä niin, että sanat kirjoitetaan yhteen ja jokainen sana alkaa isolla alkukirjaimella. Esimerkiksi seuraavat ovat tämän käytännön mukaisia luokkien nimiä:
+Luokat nimetään yleensä _PascalCase_-muodossa, joka tunnetaan myös nimellä _UpperCamelCase_. Tämä tarkoittaa, että kaikki sanat luokan nimessä kirjoitetaan yhteen ilman välilyöntejä, ja jokainen sana aloitetaan isolla kirjaimella. Esimerkiksi seuraavat nimet ovat tämän käytännön mukaisia luokkien nimiä:
 
 * `Pankkitili`
 * `OhjelmaApuri`
