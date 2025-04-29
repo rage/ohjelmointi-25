@@ -73,13 +73,10 @@ hide_in_sidebar: true
 
 #### Tentin tulokset
 
-* Tentin tulokset tulevat sähköpostitse kun arvostelu on valmis.
+* Tentin tulokset tulevat sähköpostitse kun arvostelu on valmis. Tentin arvostelu tehdään neljän viikon kuluessa kokeesta.
 * Yhden opintopisteen laajuisista suorituksista ei tule erillistä tulosviestiä. Hyväksytty suoritus merkitään suoraan opintorekisteriin.
-
-#### Tentin tulokset (avoin yliopisto)
-
 * Tulosviestin yhteydessä on ohjeet kurssisuorituksen rekisteröimiseen.
-* Rekisteröiminen edellyttää ilmoittautumista kurssille avoimen yliopiston kautta.
+* Suorituksen rekisteröiminen tapahtuu tekemällä kurssi-ilmoittautuminen avoimen yliopiston kurssille.
 
 #### Muuta
 
