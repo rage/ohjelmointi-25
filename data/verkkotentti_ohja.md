@@ -55,8 +55,8 @@ hide_in_sidebar: false
 
 * Tenttikysymykset ilmestyvät courses.mooc.fi sivulle tenttipäivänä klo 10:00.
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
-* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/26e63e23-1fc0-42d3-bf12-e0f6a6c1a937">https://courses.mooc.fi/org/uh-cs/exams/26e63e23-1fc0-42d3-bf12-e0f6a6c1a937</a>
-* Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/34a31463-7712-498b-831e-4b8b4d18024b">https://courses.mooc.fi/org/uh-cs/exams/34a31463-7712-498b-831e-4b8b4d18024b</a>
+* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/3b5e4d21-2622-4636-b0ab-2dfd44f348ff">https://courses.mooc.fi/org/uh-cs/exams/3b5e4d21-2622-4636-b0ab-2dfd44f348ff</a>
+* Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/811d3069-598d-4d82-bfaa-68b1f361a3b1">https://courses.mooc.fi/org/uh-cs/exams/811d3069-598d-4d82-bfaa-68b1f361a3b1</a>
 * Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti!` -painiketta.
 
 #### Tehtävien palauttaminen
@@ -68,7 +68,7 @@ hide_in_sidebar: false
 #### Tentin lopetus
 
 * Ennen lopettamista varmista vielä, että olet muistanut palauttaa tehtävät serverille.
-* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/1549](https://tmc.mooc.fi/org/hy/courses/1549). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
+* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle kirjautumalla sivulle [https://tmc.mooc.fi/org/hy/courses/1560](https://tmc.mooc.fi/org/hy/courses/1560). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
 #### Tentin tulokset
