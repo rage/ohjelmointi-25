@@ -24,6 +24,8 @@ information_page: true
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
+**Torstaina 29.05. ei järjestetä pajaohjausta Helatorstain vuoksi**
+
 *Aikataulu voi muuttua kurssin edetessä.*
 
 #### Discord
