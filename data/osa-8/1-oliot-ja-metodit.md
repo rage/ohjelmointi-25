@@ -14,7 +14,7 @@ Tämän osion jälkeen
 
 </text-box>
 
-Tämä on Ohjelmoinnin jatkokurssin ensimmäinen osa, ja kurssilla käytetään VS Codea samaan tapaan kuin Ohjelmoinnin perusteissa. Jos et ole käyttänyt ennen VS Codea, löydät [tästä](https://www.mooc.fi/fi/installation/vscode) ohjeet ympäristön asentamiseen.
+Tämä on Ohjelmoinnin jatkokurssin ensimmäinen osa, ja kurssilla käytetään VS Codea samaan tapaan kuin [Ohjelmoinnin perusteissa](https://ohjelmointi-25.mooc.fi/osa-4/1-vscode). Jos et ole käyttänyt ennen VS Codea, löydät [tästä](https://www.mooc.fi/fi/installation/vscode) ohjeet ympäristön asentamiseen.
 
 Jatkokurssi ja peruskurssi ovat TMC:ssä yhtenä kurssina. Jos lopetit juuri peruskurssin tekemisen, jatkokurssin tehtävät löytyvät samasta kurssista. Tämän jatkokurssin ensimmäisen osan numero on **Osa 8**. Mikäli et ole tehnyt tähän jatkokurssin liittyvää peruskurssia, valitse TMC-pluginissa organisaatioksi **MOOC** ja kurssiksi **Ohjelmoinnin MOOC 2025** ja aloita kurssin tekeminen osasta 8.
 
