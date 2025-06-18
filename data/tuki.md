@@ -5,17 +5,18 @@ hidden: false
 information_page: true
 ---
 
-### Alkukesän ohjausajat
+### Kesän ohjausajat
+
+**Ohjaustoimintaa järjestetään vain discordissa 1.8. asti**
 
 2025 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
 
-**Ohjaustoiminta alkaa torstaina 15. toukokuuta**
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
 | 10-11 | - | - | - | - | - |
-| 11-12 | Paja/Discord | - | - | Paja/Discord | - |
-| 12-13 | Paja/Discord | - | - | Paja/Discord | - |
+| 11-12 | - | - | - | - | - |
+| 12-13 | - | - | - | - | - |
 | 13-14 | - | - | - | - | - |
 | 14-15 | - | - | - | - | - |
 | 15-16 | - | - | - | - | - |
@@ -23,8 +24,6 @@ information_page: true
 | 17-18 | - | - | - | - | - |
 
 Taulukossa **Paja** tarkoittaa ohjausta kampuksella, **Discord** pelkkää etäohjausaikaa. Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
-
-**Torstaina 29.05. ei järjestetä pajaohjausta Helatorstain vuoksi**
 
 *Aikataulu voi muuttua kurssin edetessä.*
 
