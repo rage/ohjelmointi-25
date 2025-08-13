@@ -7,15 +7,15 @@ information_page: true
 
 ### Kesän ohjausajat
 
-**Ohjaustoimintaa järjestetään vain discordissa 1.8. asti**
+**Ohjausaikoja järjestetään lisää syyskuun alusta lähtien**
 
 2025 kurssilla järjestetään ohjausta sekä Kumpulan kampuksella että Discordissa. Kampuksella ohjaus järjestetään Exactumin BK107-luokassa. Ohjaus järjestetään alla olevan aikataulun mukaisesti
 
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
-| 10-11 | - | - | - | - | - |
-| 11-12 | - | - | - | - | - |
+| 10-11 | x | - | - | - | - |
+| 11-12 | x | - | - | - | - |
 | 12-13 | - | - | - | - | - |
 | 13-14 | - | - | - | - | - |
 | 14-15 | - | - | - | - | - |
