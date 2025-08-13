@@ -5,7 +5,7 @@ hidden: false
 information_page: true
 ---
 
-### Kesän ohjausajat
+### Alkusyksyn ohjausajat
 
 **Ohjausaikoja järjestetään lisää syyskuun alusta lähtien**
 
