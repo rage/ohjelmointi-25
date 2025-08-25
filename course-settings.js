@@ -32,6 +32,10 @@ const courseSettings = {
       tmcOrganization: "nissniku",
       tmcCourse: "python-2025"
     },
+    {
+      tmcOrganization: "uwasa",
+      tmcCourse: "python-2025"
+    },
     // {
     //   tmcOrganization: "laurea",
     //   tmcCourse: "python-2024-stenberg"
@@ -67,10 +71,6 @@ const courseSettings = {
     // {
     //   tmcOrganization: "laurea",
     //   tmcCourse: "python_Grotenfelt_autumn_2024"
-    // },
-    // {
-    //   tmcOrganization: "uwasa",
-    //   tmcCourse: "python-2024"
     // },
     // {
     //   tmcOrganization: "ksyk",
