@@ -36,6 +36,10 @@ const courseSettings = {
       tmcOrganization: "uwasa",
       tmcCourse: "python-2025"
     },
+    {
+      tmcOrganization: "e10129575",
+      tmcCourse: "python-2025"
+    },
     // {
     //   tmcOrganization: "laurea",
     //   tmcCourse: "python-2024-stenberg"
