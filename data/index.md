@@ -42,15 +42,15 @@ Kurssi on auki vuoden 2025 loppuun asti. Tehtäviä voi tehdä omaan tahtiin sii
 
 ## Luennot
 
-Kurssilla järjestetään liveluennot syksyllä 2025. Ensimmäinen luento on maanantaina 8.9. kello 14.15. [Voit seurata luentoa Zoomissa.](https://helsinki.zoom.us/j/66256524249?pwd=PbBEi0Nb1vfqTApiWQNbmQ2oSDFy2y.1)
-Luentotallenteet päivitetään alla olevaan taulukkoon. Päivitykseen asti löydät taulukosta aiemman vuoden tallenteet.
+Kurssilla järjestetään liveluennot syksyllä 2025. Ensimmäinen luento on maanantaina 8.9. kello 14.15. [Voit seurata luentoja Zoomissa.](https://helsinki.zoom.us/j/66256524249?pwd=PbBEi0Nb1vfqTApiWQNbmQ2oSDFy2y.1)
+Luentotallenteet päivitetään alla olevaan taulukkoon. 
 
 ## Luentotallenteet
 
 
 Osa    | Luentotallenne | Kalvot
 -------|----------------|-------
-Osa 1  | [Luentotallenne, 02.09.2024](https://youtu.be/cmxG1fskOEg) | [Luentokalvot](https://docs.google.com/presentation/d/1b66YpK99-o3uJDZzwBxRgRIgeORQ0mwEoV0ziP48dd4/edit?usp=sharing), [Linkki-esittely](https://drive.google.com/file/d/1y2dIqVRO7Y4MaQA4d8sCdEQ1LwHPc9NQ/view?usp=sharing)
+Osa 1 (2025)  | [Luentotallenne, 08.09.2025](https://youtu.be/ULna74mhFis) | [Luentokalvot](https://docs.google.com/presentation/d/1izQSQK65tkHRdKrymB5E4B_9gVpvIpXUh5ixGY_b0MU/edit?usp=sharing)
 Osa 2  | [Luentotallenne, 09.09.2024](https://youtu.be/6HIHvGmoMCA) | [Luentokalvot](https://docs.google.com/presentation/d/1HGZti8rEAfrwavAV0l0GxOxeBqSY52DhCls50xpYSDo/edit?usp=sharing)
 Osa 3  | [Luentotallenne, 16.09.2024](https://youtu.be/ti6YZ9ku2tA) | [Luentokalvot](https://docs.google.com/presentation/d/16dvar9xgSgQgrgrBm0albWf9mLoGq-bAbMDD-YIWIMk/edit?usp=sharing)
 Osa 4  | [Luentotallenne, 23.09.2024](https://youtu.be/haDJhhFrFG4) | [Luentokalvot](https://docs.google.com/presentation/d/1CRU9k0VpfHJugW_7qNlglIsbK0NeLeEpypTLuO0doPQ/edit?usp=sharing)
