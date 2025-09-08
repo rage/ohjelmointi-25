@@ -24,6 +24,10 @@ const courseSettings = {
       tmcOrganization: "kinnulanlukio",
       tmcCourse: "kinnulanlukio-python-ohjelmointi-2025"
     },
+        {
+      tmcOrganization: "laurea",
+      tmcCourse: "laurea-python-henttonen-2025"
+    },
     {
       tmcOrganization: "laurea",
       tmcCourse: "python-2025-laurea-stenberg"
