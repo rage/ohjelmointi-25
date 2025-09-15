@@ -21,7 +21,7 @@ Osat 1-7 muodostavat Ohjelmoinnin perusteet ja osat 8-14 muodostavan Ohjelmoinni
 
 ## Arviointiasteikko muuttuu vuonna 2026
 
-Ohjelmoinnin perusteiden arviointiasteikko muuttuu vuoden 2026 MOOCissa. Hyväksytty / hylätty -skaalan sijasta kurssi arvioidaan numeerisella asteikolla ykkösestä viitoseen. Muutos ei koske vuoden 2025 MOOCin tammikuun tenttiä.
+Ohjelmoinnin perusteiden arviointiasteikko muuttuu vuoden 2026 MOOCissa. Hyväksytty / hylätty -asteikon sijasta kurssi arvioidaan numeerisella asteikolla ykkösestä viitoseen. Muutos ei koske tämän MOOCin tammikuussa 2026 pidettävää tenttiä.
 
 ## 1 + 1 pisteen lisäsuoritukset
 
