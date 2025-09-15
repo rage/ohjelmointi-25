@@ -51,7 +51,7 @@ Luentotallenteet päivitetään alla olevaan taulukkoon.
 Osa    | Luentotallenne | Kalvot
 -------|----------------|-------
 Osa 1 (2025)  | [Luentotallenne, 08.09.2025](https://youtu.be/ULna74mhFis) | [Luentokalvot](https://docs.google.com/presentation/d/1izQSQK65tkHRdKrymB5E4B_9gVpvIpXUh5ixGY_b0MU/edit?usp=sharing)
-Osa 2  | [Luentotallenne, 09.09.2024](https://youtu.be/6HIHvGmoMCA) | [Luentokalvot](https://docs.google.com/presentation/d/1HGZti8rEAfrwavAV0l0GxOxeBqSY52DhCls50xpYSDo/edit?usp=sharing)
+Osa 2 (2025) | [Luentotallenne, 15.09.2025](https://youtu.be/PfXraApB4Qo) | [Luentokalvot](https://docs.google.com/presentation/d/1xIsXwoWBdxkpkC9Df5FDhBUmrGhXmOOtB-g5bCe5yLE/edit?usp=sharing)
 Osa 3  | [Luentotallenne, 16.09.2024](https://youtu.be/ti6YZ9ku2tA) | [Luentokalvot](https://docs.google.com/presentation/d/16dvar9xgSgQgrgrBm0albWf9mLoGq-bAbMDD-YIWIMk/edit?usp=sharing)
 Osa 4  | [Luentotallenne, 23.09.2024](https://youtu.be/haDJhhFrFG4) | [Luentokalvot](https://docs.google.com/presentation/d/1CRU9k0VpfHJugW_7qNlglIsbK0NeLeEpypTLuO0doPQ/edit?usp=sharing)
 Osa 5  | [Luentotallenne, 30.09.2024](https://youtu.be/VN2zpbAi2QU) | [Luentokalvot](https://docs.google.com/presentation/d/1UBQ8L6wlWfGbLQDxBV5-d5HtV2fmiK5RFRXfQMQ6QGk/edit?usp=sharing)
