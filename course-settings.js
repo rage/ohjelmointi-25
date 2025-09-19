@@ -24,7 +24,11 @@ const courseSettings = {
       tmcOrganization: "kinnulanlukio",
       tmcCourse: "kinnulanlukio-python-ohjelmointi-2025"
     },
-        {
+    {
+      tmcOrganization: "laurea",
+      tmcCourse: "Laurea_UAS:_python-2025/OutiGrotenfelt"
+    },
+    {
       tmcOrganization: "laurea",
       tmcCourse: "laurea-python-henttonen-2025"
     },
