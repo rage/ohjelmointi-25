@@ -26,7 +26,7 @@ const courseSettings = {
     },
     {
       tmcOrganization: "laurea",
-      tmcCourse: "Laurea_UAS:_python-2025/OutiGrotenfelt"
+      tmcCourse: "python-2025"
     },
     {
       tmcOrganization: "laurea",
