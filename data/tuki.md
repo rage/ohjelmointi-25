@@ -14,14 +14,14 @@ information_page: true
 
 | Aika / Päivä | MA | TI | KE | TO | PE |
 |-----|----|----|----|----|----|
-| 10-11 | - | - | - | - | - |
-| 11-12 | - | - | - | - | - |
-| 12-13 | - | X | - | X | - |
-| 13-14 | - | X | - | X | - |
-| 14-15 | - | X | X | X | - |
-| 15-16 | - | X | X | X | - |
-| 16-17 | - | - | X | - | - |
-| 17-18 | - | - | X | - | - |
+| 10-11 | - | X | - | - | X |
+| 11-12 | - | X | - | - | X |
+| 12-13 | - | - | - | X | - |
+| 13-14 | - | - | - | X | - |
+| 14-15 | - | - | - | - | - |
+| 15-16 | - | - | X | - | - |
+| 16-17 | - | X | X | - | - |
+| 17-18 | - | X | - | - | - |
 
 Pajaohjauksen aikana saattaa olla apua tarjolla myös Discordissa, jos ohjaajilla on vuorollaan aikaa seurata Discordia.
 
