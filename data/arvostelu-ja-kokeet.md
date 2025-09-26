@@ -14,7 +14,7 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 * ~~Lauantai 03.05.2025~~
 * ~~Lauantai 07.06.2025~~
 * ~~Lauantai 19.07.2025~~
-* Lauantai 06.09.2025
+* ~~Lauantai 06.09.2025~~
 * Tiistai 28.10.2025 (HUOM! Päivä muuttunut!)
 * Lauantai 22.11.2025
 * Lauantai 17.01.2026
