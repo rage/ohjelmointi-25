@@ -50,10 +50,10 @@ Luentotallenteet päivitetään alla olevaan taulukkoon.
 
 Osa    | Luentotallenne | Kalvot
 -------|----------------|-------
-Osa 1 (2025)  | [Luentotallenne, 08.09.2025](https://youtu.be/ULna74mhFis) | [Luentokalvot](https://docs.google.com/presentation/d/1izQSQK65tkHRdKrymB5E4B_9gVpvIpXUh5ixGY_b0MU/edit?usp=sharing)
+Osa 1 (2025) | [Luentotallenne, 08.09.2025](https://youtu.be/ULna74mhFis) | [Luentokalvot](https://docs.google.com/presentation/d/1izQSQK65tkHRdKrymB5E4B_9gVpvIpXUh5ixGY_b0MU/edit?usp=sharing)
 Osa 2 (2025) | [Luentotallenne, 15.09.2025](https://youtu.be/PfXraApB4Qo) | [Luentokalvot](https://docs.google.com/presentation/d/1xIsXwoWBdxkpkC9Df5FDhBUmrGhXmOOtB-g5bCe5yLE/edit?usp=sharing)
-Osa 3 (2025)  | [Luentotallenne, 22.09.2025](https://youtu.be/UEU9T7_ijSI) | [Luentokalvot](https://docs.google.com/presentation/d/1Dj9yGT-ZR8isCi6PwiZz8-7iPvvKcvBIHnCNWu-2lLE/edit?usp=sharing)
-Osa 4  | [Luentotallenne, 23.09.2024](https://youtu.be/haDJhhFrFG4) | [Luentokalvot](https://docs.google.com/presentation/d/1CRU9k0VpfHJugW_7qNlglIsbK0NeLeEpypTLuO0doPQ/edit?usp=sharing)
+Osa 3 (2025) | [Luentotallenne, 22.09.2025](https://youtu.be/UEU9T7_ijSI) | [Luentokalvot](https://docs.google.com/presentation/d/1Dj9yGT-ZR8isCi6PwiZz8-7iPvvKcvBIHnCNWu-2lLE/edit?usp=sharing)
+Osa 4 (2025) | [Luentotallenne, 29.09.2025](https://youtu.be/vTYI4yBzJG4) | [Luentokalvot](https://docs.google.com/presentation/d/1WSs1Ln4rYWzGwy2BuGapLrno2Q0RCXMUa1sTkcBzvnY/edit?usp=sharing)
 Osa 5  | [Luentotallenne, 30.09.2024](https://youtu.be/VN2zpbAi2QU) | [Luentokalvot](https://docs.google.com/presentation/d/1UBQ8L6wlWfGbLQDxBV5-d5HtV2fmiK5RFRXfQMQ6QGk/edit?usp=sharing)
 Osa 6  | [Luentotallenne, 07.10.2024](https://youtu.be/Hx6ScppSUKc) | [Luentokalvot](https://docs.google.com/presentation/d/1dNa90E5_AE7OxPHM09_JPEyQyl2hSO0h7yc2uaZWQ98/edit?usp=sharing)
 Osa 7  | [Luentotallenne, 14.10.2024](https://youtu.be/AL3YhX148Dc) | [Luentokalvot](https://docs.google.com/presentation/d/1seHBXgqyh4cCnf0VL2BacLZwiuMI5v9E6N6xUtbboU8/edit?usp=sharing)
