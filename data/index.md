@@ -56,7 +56,7 @@ Osa 3 (2025) | [Luentotallenne, 22.09.2025](https://youtu.be/UEU9T7_ijSI) | [Lue
 Osa 4 (2025) | [Luentotallenne, 29.09.2025](https://youtu.be/vTYI4yBzJG4) | [Luentokalvot](https://docs.google.com/presentation/d/1WSs1Ln4rYWzGwy2BuGapLrno2Q0RCXMUa1sTkcBzvnY/edit?usp=sharing)
 Osa 5 (2025) | [Luentotallenne, 06.10.2025](https://youtu.be/GAlIgz6ziCA) | [Luentokalvot](https://docs.google.com/presentation/d/1XW2zeSrxUATKbkJTTeLNm0IiqYb3y6ZhFmK67hZ3lRU/edit?usp=sharing)
 Osa 6 (2025) | [Luentotallenne, 13.10.2025](https://youtu.be/IJI-VX8x1GM) | [Luentokalvot](https://docs.google.com/presentation/d/1fBHTrYfCoph5vOt80P_Jf8kYWep2CmT-HrGSChN7ajM/edit?usp=sharing)
-Osa 7  | [Luentotallenne, 14.10.2024](https://youtu.be/AL3YhX148Dc) | [Luentokalvot](https://docs.google.com/presentation/d/1seHBXgqyh4cCnf0VL2BacLZwiuMI5v9E6N6xUtbboU8/edit?usp=sharing)
+Osa 7 (2025) | [Luentotallenne, 20.10.2025](https://youtu.be/Hj8Zbj-Hgv4) | [Luentokalvot](https://docs.google.com/presentation/d/1PzteClT9HwdZibOp2jYl6NScOYVkPKPJcVwOtUKIpSQ/edit?usp=sharing)
 Osa 8  | [Luentotallenne, 28.10.2024](https://youtu.be/ecsTwMvBjic) | [Luentokalvot](https://docs.google.com/presentation/d/12EsFxA2CCWCLIKdp8q6gAgAnK2-EFFrZhXgmgJeEGy8/edit?usp=sharing)
 Osa 9  | [Luentotallenne, 04.11.2024](https://youtu.be/YZJhoICsT54) | [Luentokalvot](https://docs.google.com/presentation/d/1jMFlhqZcu1teq_QfplofZL2VggJKWH9jNpx9FOdnbqw/edit?usp=sharing)
 Osa 10 | [Luentotallenne, 11.11.2024](https://youtu.be/qLyKEl5EQ6A) | [Luentokalvot](https://docs.google.com/presentation/d/16cFdoP81vMK8rUDqVRYJay5sLYdu2IkbYxJxWLhKcMQ/edit?usp=sharing)
