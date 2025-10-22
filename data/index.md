@@ -42,8 +42,8 @@ Kurssi on auki vuoden 2025 loppuun asti. Tehtäviä voi tehdä omaan tahtiin sii
 
 ## Luennot
 
-Kurssilla järjestetään liveluennot syksyllä 2025. Ensimmäinen luento on maanantaina 8.9. kello 14.15. [Voit seurata luentoja Zoomissa.](https://helsinki.zoom.us/j/66256524249?pwd=PbBEi0Nb1vfqTApiWQNbmQ2oSDFy2y.1)
-Luentotallenteet päivitetään alla olevaan taulukkoon. 
+Kurssilla järjestetään liveluennot syksyllä 2025. Jatkokurssin ensimmäinen luento on maanantaina 27.10. kello 14.15. [Voit seurata luentoja Zoomissa.](https://helsinki.zoom.us/j/66256524249?pwd=PbBEi0Nb1vfqTApiWQNbmQ2oSDFy2y.1)
+Luentotallenteet päivitetään alla olevaan taulukkoon. <i>Huomaa poikkeusaikataulu viikolla 45: maanantaina 3.11. ei ole luentoa, luento on sen sijaan keskiviikkona 5.11. klo 10.15. </i>
 
 ## Luentotallenteet
 
