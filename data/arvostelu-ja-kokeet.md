@@ -28,7 +28,7 @@ Kurssit suoritetaan ratkomalla tehtäviä ja osallistumalla lopuksi kokeeseen.
 * Tiistai 21.10.2025
 * Tiistai 16.12.2025
 * Lauantai 24.01.2026
-* Lauanatai 28.02.2026
+* Lauantai 28.02.2026
 
 
 ## Tenttiin osallistuminen
