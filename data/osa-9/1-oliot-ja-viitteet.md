@@ -123,7 +123,7 @@ Listaan ei tarkkaan ottaen tallenneta olioita vaan _viittauksia olioihin_. Niinp
 
 ```python
 class Tuote:
-    def __init__(self, nimi: int, yksikko: str):
+    def __init__(self, nimi: str, yksikko: str):
         self.nimi = nimi
         self.yksikko = yksikko
 
