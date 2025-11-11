@@ -46,7 +46,7 @@ const courseSettings = {
     },
     {
       tmcOrganization: "e10129575",
-      tmcCourse: "python-2025"
+      tmcCourse: "ython-perusteet2025"
     },
     // {
     //   tmcOrganization: "laurea",
