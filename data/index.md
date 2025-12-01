@@ -62,5 +62,5 @@ Osa 9 (2025) | [Luentotallenne, 05.11.2025](https://youtu.be/1HwXwB4_ce4) | [Lue
 Osa 10 (2025) | [Luentotallenne, 10.11.2025](https://youtu.be/MOFAlNnm49o) | [Luentokalvot](https://docs.google.com/presentation/d/1jTCp5pJKAM1wlKgN4eeLQmsIS0oKcZdVX8w9lDizZdk/edit?usp=sharing)
 Osa 11 (2025) | [Luentotallenne, 17.11.2025](https://youtu.be/JT0dsjKlITo) | [Luentokalvot](https://docs.google.com/presentation/d/1pTMxaNg4J63St1xJ11K76fGwlfWYhMggIk8o-m7hGR0/edit?usp=sharing)
 Osa 12 (2025) | [Luentotallenne, 24.11.2025](https://youtu.be/rCcBzQ9KaWs) | [Luentokalvot](https://docs.google.com/presentation/d/13zTyTv7sO0dT_d4EfoV9MvCfG-oCi1Zz0a7MgKww6Hw/edit?usp=sharing)
-Osa 13 | [Luentotallenne, 02.12.2024](https://youtu.be/GWzDfh9lB1A) | [Luentokalvot](https://docs.google.com/presentation/d/15fGrwnfK5tlaKI1OFvU_sDOB8FIt5PYpPlPocCJWfOc/edit?usp=sharing)
+Osa 13 (2025) | [Luentotallenne, 02.12.2024](https://youtu.be/2tibs-teA0o) | [Luentokalvot](https://docs.google.com/presentation/d/1h9D1jP9m6LLYTuGK6XdiAfFx8i1ARnHDe8Sm8jv_nJ8/edit?usp=sharing)
 Osa 14 | Ei luentoa, projektityö
