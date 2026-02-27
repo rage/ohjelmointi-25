@@ -1,6 +1,6 @@
 ---
 path: "/verkkotentti-ohja"
-title: "Ohjelmoinnin jatkokurssin verkkotentti 24.01."
+title: "Ohjelmoinnin jatkokurssin verkkotentti 28.02."
 information_page: true
 sidebar_priority: 2800
 hide_in_sidebar: false
@@ -19,7 +19,7 @@ hide_in_sidebar: false
 #### Tentin toteutus
 
 * Tentti suoritetaan kurssitehtävien tapaan vscode-ympäristössä.
-* Kurssin tentin voi suorittaa 24.01.2026 **klo 10:00-22:00** välisenä aikana.
+* Kurssin tentin voi suorittaa 28.02.2026 **klo 10:00-22:00** välisenä aikana.
 * Tentti päättyy viimeistään klo 22:00. Jos haluat käyttää tenttiin maksimiajan, **aloita se viimeistään klo 18:00**.
 * Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttiin lisäaikaa, aikaa on viisi tuntia.
 
@@ -42,7 +42,7 @@ hide_in_sidebar: false
 2. Valitse TMC-valikosta `My courses`-näkymä.
 3. Paina `Add new course`-nappulaa.
 4. Valitse organisaatioksi `Helsingin yliopisto`.
-5. Valitse kurssiksi `OHJA Python, syksy 2025, Verkkotentti 3`.
+5. Valitse kurssiksi `OHJA Python, syksy 2025, Verkkotentti 4`.
 6. Lataa tehtäväpohjat.
 7. Testaa tehtävien lähettämistä.
 8. Jos saat lähetettyä tehtävät palvelimelle niin olet valmis tekemään tentin, muutoin ole yhteydessä ohjaajaan.
@@ -55,8 +55,8 @@ hide_in_sidebar: false
 
 * Tenttikysymykset ilmestyvät courses.mooc.fi sivulle tenttipäivänä klo 10:00.
 * Tentti-sivuille kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
-* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/69e60ee4-c64d-4fb0-9921-4458daae1b3b">https://courses.mooc.fi/org/uh-cs/exams/69e60ee4-c64d-4fb0-9921-4458daae1b3b</a>
-* Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/1e4ae3dc-5858-41f2-97ae-c643f3e9aba7">https://courses.mooc.fi/org/uh-cs/exams/1e4ae3dc-5858-41f2-97ae-c643f3e9aba7</a>
+* Tenttikysymykset löytyvät osoitteesta: <a href="https://courses.mooc.fi/org/uh-cs/exams/6e777578-8073-4ebd-9ecf-f70fdc244767">https://courses.mooc.fi/org/uh-cs/exams/6e777578-8073-4ebd-9ecf-f70fdc244767</a>
+* Jos olet oikeutettu lisäaikaan, tenttikysymykset saat auki tästä: <a href="https://courses.mooc.fi/org/uh-cs/exams/b168ca04-75bd-4c85-90af-48b12d9978eb">https://courses.mooc.fi/org/uh-cs/exams/b168ca04-75bd-4c85-90af-48b12d9978eb</a>
 * Tenttiaika alkaa siitä hetkestä kun painat `Aloita tentti!` -painiketta.
 
 #### Tehtävien palauttaminen
@@ -68,7 +68,7 @@ hide_in_sidebar: false
 #### Tentin lopetus
 
 * Ennen lopettamista varmista vielä, että olet muistanut palauttaa tehtävät serverille.
-* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle **kirjautumalla sivulle** [https://tmc.mooc.fi/org/hy/courses/1661](https://tmc.mooc.fi/org/hy/courses/1661). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
+* Voit tarkistaa  lähettämiesi tehtävien saapumisen palvelimelle **kirjautumalla sivulle** [https://tmc.mooc.fi/org/hy/courses/1668](https://tmc.mooc.fi/org/hy/courses/1668). Tehtävän palautus on saapunut palvelimelle, jos näet tehtävän tehtäväpohjan nimen ja kellonajan, jolloin palautit tehtävän.
 * Voit sulkea tenttitehtävä-sivun kun olet valmis. Muita toimenpiteitä ei vaadita.
 
 #### Tentin tulokset
